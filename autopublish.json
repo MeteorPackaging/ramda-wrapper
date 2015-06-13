@@ -1,0 +1,11 @@
+{
+  "version": "0.14.0",
+  "upstream": {
+    "git": "https://github.com/ramda/ramda.git",
+    "release": "v0.14.0",
+    "versionFile": "package.json"
+  },
+  "_hook": {
+    "repoFullName": "ramda/ramda"
+  }
+}
