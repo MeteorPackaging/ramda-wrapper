@@ -1,8 +1,8 @@
 {
-  "version": "0.14.0",
+  "version": "0.17.1",
   "upstream": {
     "git": "https://github.com/ramda/ramda.git",
-    "release": "v0.14.0",
+    "release": "newtag",
     "versionFile": "package.json"
   },
   "_hook": {

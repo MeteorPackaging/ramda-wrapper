@@ -1,7 +1,7 @@
 Package.describe({
   name: 'ramda:ramda',  // http://atmospherejs.com/ramda/ramda
   summary: 'Ramda (official): A practical functional library for Javascript programmers.',
-  version: '0.14.0',
+  version: '0.17.1',
   git: 'https://github.com/ramda/ramda.git'
 });
 
